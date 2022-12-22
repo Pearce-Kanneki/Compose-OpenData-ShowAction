@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ShowAction</string>
+    <string name="action_date">活動日期: %s ~ %s</string>
+    <string name="action_category_title">活動種類</string>
+    <string name="is_loading_wait">資料讀取中…請稍後再嘗試</string>
+    <string name="location_name_title">地點: %s</string>
+    <string name="location_title">地址: %s</string>
+    <string name="price_title">票價: %s</string>
+    <string name="end_time_title">結束時間: %s</string>
+    <string name="show_unit_title">演出單位: %s</string>
+    <string name="master_unit_title">主辦單位: %s</string>
+    <string name="sales_url">活動網址: %s</string>
+    <string name="web_click">點擊觀看網頁</string>
+</resources>
